@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gliderwiki)](https://github.com/gliderwiki/github-readme-stats)
+[![gliderwiki's github stats](https://github-readme-stats.vercel.app/api?username=gliderwiki)](https://github.com/gliderwiki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gliderwiki&layout=compact)](https://github.com/gliderwiki/github-readme-stats)
