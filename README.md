@@ -9,7 +9,7 @@ A Backend developer in Korea. I'm works at kakao as a development lead in the pa
 ![Micro Services Architecture](https://img.shields.io/badge/-Micro%20Services%20Architecture-blue?&style=for-the-badge&logo=MSA&logoColor=#FF9900)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-DC382D?FF6600=for-the-badge&logo=RabbitMQ&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 
 
 
