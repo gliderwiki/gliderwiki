@@ -1,5 +1,5 @@
 # Hi there 👋, I'm code villains
-A Backend developer in Korea. I'm works at kakao as a development lead in the partner platform department.
+A Backend developer in Korea. I'm works at kakao as a development lead.
 
 <h3></h3>
 
