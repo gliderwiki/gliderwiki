@@ -1,16 +1,20 @@
 ### Hi there 👋, I'm code villains
 <hr>
-A Backend developer in Korea. I'm works at kakao as a development lead in the partner platform department.
+# A Backend developer in Korea. I'm works at kakao as a development lead in the partner platform department.
 
 <h3></h3>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![Micro Services Architecture](https://img.shields.io/badge/-Micro%20Services%20Architecture-blue?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/seong-yun-byeon-8183a8113](https://www.linkedin.com/in/performizer/)/)](https://www.linkedin.com/in/performizer/)
-	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villainscode@gmail.com)](mailto:villainscode@gmail.com)
+
+# :mailbox_with_mail: Contacts  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/seong-yun-byeon-8183a8113](https://www.linkedin.com/in/performizer/)/)](https://www.linkedin.com/in/performizer/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villainscode@gmail.com)](mailto:villainscode@gmail.com)
+
 
 
 
