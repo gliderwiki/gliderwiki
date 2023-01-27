@@ -1,9 +1,23 @@
-### Hi there 👋
+### Hi there 👋, I'm code villains
+<hr>
+A Backend developer in Korea. I'm works at kakao as a development lead in the partner platform department.
+
+<h3></h3>
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
+
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/seong-yun-byeon-8183a8113](https://www.linkedin.com/in/performizer/)/)](https://www.linkedin.com/in/performizer/)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villainscode@gmail.com)](mailto:villainscode@gmail.com)
+
+
 
 <!--
 **gliderwiki/gliderwiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:	
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
