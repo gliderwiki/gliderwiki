@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gliderwiki&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![gliderwiki's github stats](https://github-readme-stats.vercel.app/api?username=gliderwiki)](https://github.com/gliderwiki/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gliderwiki&layout=compact)](https://github.com/gliderwiki/github-readme-stats)
