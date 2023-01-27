@@ -7,6 +7,9 @@ A Backend developer in Korea. I'm works at kakao as a development lead in the pa
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Micro Services Architecture](https://img.shields.io/badge/-Micro%20Services%20Architecture-blue?&style=for-the-badge&logo=MSA&logoColor=#FF9900)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-DC382D?FF6600=for-the-badge&logo=RabbitMQ&logoColor=white)
 
 
 
