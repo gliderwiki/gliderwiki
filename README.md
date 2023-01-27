@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 -->
 
 [![gliderwiki's github stats](https://github-readme-stats.vercel.app/api?username=gliderwiki)](https://github.com/gliderwiki/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gliderwiki&layout=compact)](https://github.com/gliderwiki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gliderwiki&layout=langs_count=8)](https://github.com/gliderwiki/github-readme-stats)
