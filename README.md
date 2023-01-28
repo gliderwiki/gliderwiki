@@ -11,6 +11,8 @@ A Backend developer in Korea. I'm works at kakao as a development lead.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gliderwiki&layout=compact)](https://github.com/gliderwiki/github-readme-stats)
+
 
 
 # Contacts  
@@ -36,4 +38,3 @@ Here are some ideas to get you started:
 -->
 
 [![gliderwiki's github stats](https://github-readme-stats.vercel.app/api?username=gliderwiki)](https://github.com/gliderwiki/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gliderwiki&layout=compact)](https://github.com/gliderwiki/github-readme-stats)
