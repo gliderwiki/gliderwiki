@@ -5,7 +5,7 @@
 
 # Repo
 - https://github.com/orgs/haru-note/repositories 기술 인터뷰 코드 정리 및 예제 
-- https://github.com/orgs/howlingproject/repositories 공개 소프트웨어 개발자 대회 출품 Product Repo
+- https://github.com/orgs/howlingproject/repositories 공개 소프트웨어 개발자 대회 출품 Product Repository
 - https://github.com/gliderwiki?tab=repositories 기술 정리용 개인 Repo
 
 <h3></h3>
