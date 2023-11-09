@@ -10,7 +10,7 @@ Hi, I'm Code villain
 <br>
 카카오 백엔드 개발자. 개발 리드 
 
-# 👯 Work experience
+# ⚡ Work experience
 - KAKAO Corp (2018 ~ Now, Part Leader) 
 - LG Fashion (2017 ~ 2018, Senior Manager)
 - Coupang (2013 ~ 2017, Sr.Software Engineer, L5)
