@@ -6,6 +6,13 @@ Hi, I'm code villains
 
 카카오 백엔드 개발자. 개발 리드 
 
+# Work experience
+- Kakao corp (2018.04 ~ Now, 파트장) 
+- LG Fashion (2017.09 ~ 2018.03, 차장)
+- Coupang (2013.08 ~ 2017.07, Sr. Software Engineer (L5))
+- Freelancer (Samsung electronics OSP 2.5, SK Telecom T-Gate, GS Homeshopping E-Commerce - 7 years)
+  
+
 # Repo
 - https://github.com/orgs/haru-note/repositories 기술 인터뷰 코드 정리 및 예제 
 - https://github.com/orgs/howlingproject/repositories 기업용 위키 (GliderWiki), Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
