@@ -2,7 +2,7 @@
 
 
 
-# 🔭 I’m currently working on
+# 🤔 I’m currently working on
 
 Hello World! 
 <br>
@@ -21,12 +21,12 @@ Hi, I'm code villain
 
   
 
-# Repo
+# 🔭 Repo
 - https://github.com/orgs/haru-note/repositories 기술 인터뷰 코드 정리 및 예제 
 - https://github.com/orgs/howlingproject/repositories 기업용 위키 (GliderWiki), Open Source Software World Challenge Korea, Silver prize (2012.11-National IT Industry Promotion Agency : NIPA)
 - https://github.com/gliderwiki?tab=repositories 기술 정리용 개인 Repo
 
-# Skills 
+# 🌱 Skills 
 
 ## Server-side
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
