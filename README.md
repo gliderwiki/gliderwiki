@@ -10,7 +10,10 @@ Hi, I'm code villains
 - KAKAO corp (2018 ~ Now, 파트장) 
 - LG Fashion (2017 ~ 2018, 차장)
 - Coupang (2013 ~ 2017, Sr.Software Engineer(L5))
-- Freelance Developer (2008 ~ 2013) Samsung electronics OSP 2.5 AA, SK Telecom T-Gate AA/TL, GS Homeshopping E-Commerce Platform Developement)
+- Freelance Developer (2008 ~ 2013)
+  + Samsung electronics OSP 2.5 AA
+  + SK Telecom T-Gate AA/TL
+  + GS Homeshopping E-Commerce Platform Developement
 
   
 
