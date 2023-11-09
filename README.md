@@ -7,13 +7,13 @@ Hi, I'm code villains
 카카오 백엔드 개발자. 개발 리드 
 
 # Work experience
-- KAKAO corp (2018 ~ Now, 파트장) 
-- LG Fashion (2017 ~ 2018, 차장)
-- Coupang (2013 ~ 2017, Sr.Software Engineer(L5))
+- KAKAO corp (2018 ~ Now, Part Leader) 
+- LG Fashion (2017 ~ 2018, Senior Manager)
+- Coupang (2013 ~ 2017, Sr.Software Engineer, L5)
 - Freelance Developer (2008 ~ 2013)
-  + Samsung electronics OSP 2.5, AA, 과장
-  + SK Telecom T-Gate, AA/TL, 과장 
-  + GS Homeshopping E-Commerce Platform Developement, 과장
+  + Samsung electronics OSP 2.5, AA, Manager
+  + SK Telecom T-Gate, AA/TL, Manager 
+  + GS Homeshopping E-Commerce Platform Developement, Manager
 
   
 
