@@ -11,9 +11,9 @@ Hi, I'm code villains
 - LG Fashion (2017 ~ 2018, 차장)
 - Coupang (2013 ~ 2017, Sr.Software Engineer(L5))
 - Freelance Developer (2008 ~ 2013)
-  + Samsung electronics OSP 2.5 AA
-  + SK Telecom T-Gate AA/TL
-  + GS Homeshopping E-Commerce Platform Developement
+  + Samsung electronics OSP 2.5, AA, 과장
+  + SK Telecom T-Gate, AA/TL, 과장 
+  + GS Homeshopping E-Commerce Platform Developement, 과장
 
   
 
