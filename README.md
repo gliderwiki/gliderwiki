@@ -5,16 +5,17 @@
 # 🔭 I’m currently working on
 
 Hello World! 
+<br>
 Hi, I'm code villain
-
+<br>
 카카오 백엔드 개발자. 개발 리드 
 
 # Work experience
-- KAKAO corp (2018 ~ Now, Part Leader) 
+- KAKAO Corp (2018 ~ Now, Part Leader) 
 - LG Fashion (2017 ~ 2018, Senior Manager)
 - Coupang (2013 ~ 2017, Sr.Software Engineer, L5)
 - Freelance Developer (2008 ~ 2013)
-  + Samsung electronics OSP 2.5, AA, Manager
+  + Samsung Electronics OSP 2.5, AA, Manager
   + SK Telecom T-Gate, AA/TL, Manager 
   + GS Homeshopping E-Commerce Platform Developement, Manager
 
