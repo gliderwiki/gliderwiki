@@ -1,9 +1,12 @@
 ![background](http://4.bp.blogspot.com/-KKok0VRV-OY/Wwz5Vj2X0fI/AAAAAAAAtzQ/VGPMA4FnqiIYULqIKU3b64REYbpk8BJ1ACK4BGAYYCw/s1600/titles.png)
 
+
+
 # 🔭 I’m currently working on
+
 Hello World! 
 Hi, I'm code villains 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgliderwiki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 카카오 백엔드 개발자. 개발 리드 
 
@@ -57,7 +60,7 @@ Hi, I'm code villains
 # Contacts  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/performizer/)/)](https://www.linkedin.com/in/performizer/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:villainscode@gmail.com)](mailto:villainscode@gmail.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgliderwiki%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
