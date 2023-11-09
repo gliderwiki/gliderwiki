@@ -6,7 +6,7 @@
 
 Hello World! 
 <br>
-Hi, I'm code villain
+Hi, I'm Code villain
 <br>
 카카오 백엔드 개발자. 개발 리드 
 
