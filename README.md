@@ -33,7 +33,7 @@ Hi, I'm code villains
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://home.cc.umanitoba.ca/~psgendb/doc/local/pkg/ugene/tools/java-1.8.0/lib/deploy/splash_11-lic.gif?raw=true" width="500" height="320" />
 <br/><br/>
 
 
