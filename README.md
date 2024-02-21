@@ -8,11 +8,10 @@ Hi, I'm Code-Villain
 🤔 I’m currently working on Kakao Corp
 - 10+ years of applicable experience in enterprise software development
   + Proficiency with server-side languages (Java, Spring)
-  + RDBMS knowledge
 
 - Significant experience building high-performance and scalable systems
   + System architecture design
-  + Entity design
+  + RDBMS knowledge (Entity design)
 
 # ⚡ Work experience
 - KAKAO Corp (2018 ~ Now, Part Leader) 
